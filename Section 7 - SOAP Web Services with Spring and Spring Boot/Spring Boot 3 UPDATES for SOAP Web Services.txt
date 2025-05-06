@@ -1,0 +1,7 @@
+Spring Boot 3 UPDATES for SOAP Web Services
+Really excited to announce that the entire course is now upgraded to Spring Boot 3
+
+
+
+SOAP Web Services Changes for Spring Boot 3
+https://github.com/in28minutes/spring-web-services/blob/master/3.0.0-upgrade-notes.md#soap-web-services-changes-for-spring-boot-3
